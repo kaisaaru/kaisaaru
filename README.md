@@ -45,7 +45,7 @@ I'm a **Software Engineering student** from Indonesia who enjoys building **web 
 <p align="center">
 <a href="mailto:ryf.kaisaaru@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://github.com/kaisaaru"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://linkedin.com/in/USERNAME_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://linkedin.com/in/kaisaaru"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
 
 </p>
