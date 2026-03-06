@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=500&lines=WebApp+Developer;Software+Engineering+Student;Building+Useful+Web+Applications;Always+Learning+New+Things">
 </p>
 
-<p align="center">
-  "I don't just build apps. I build apps people can actually use."
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
