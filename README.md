@@ -1,10 +1,6 @@
 <h1 align="center">Hello, I'm Kai 👋</h1>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=120&section=footer"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=500&lines=WebApp+Developer;Software+Engineering+Student;Building+Useful+Web+Applications">
 </p>
 
