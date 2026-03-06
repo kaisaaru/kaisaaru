@@ -1,45 +1,78 @@
-# Hello, I'm Kai 👋
+<h1 align="center">Hello, I'm Kai 👋</h1>
 
 <p align="center">
-  <i>"Building web applications and learning something new every day."</i>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=500&lines=WebApp+Developer;Software+Engineering+Student;Building+Useful+Web+Applications;Always+Learning+New+Things">
+</p>
+
+<p align="center">
+  "I don't just build apps. I build apps people can actually use."
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Software Engineering Student
-- 💻 Interested in **Web Application Development**
-- 🌱 Currently learning **fullstack development**
-- 🚀 Enjoy building systems that solve real-world problems
+I'm a **Software Engineering student** from Indonesia who enjoys building **web applications and digital systems**.
+
+- 💻 Interested in **Web Development & Software Engineering**
+- 🚀 Love building real-world applications
+- 🌱 Currently learning **Fullstack Development**
+- 🔧 Exploring backend systems and scalable architecture
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,php,laravel,mysql,git" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,php,laravel,mysql,git,github,vscode" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaisaaru&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisaaru&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaisaaru&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaisaaru&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaisaaru&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🚀 Current Focus
 
 - Building **web-based applications**
-- Improving **backend and database design**
-- Learning better **software engineering practices**
+- Learning **backend architecture**
+- Improving **software engineering practices**
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: ryf.kaisaaru@gmail.com
-- 💻 GitHub: https://github.com/kaisaaru
+<p align="center">
+
+<a href="mailto:ryf.kaisaaru@gmail.com">
+<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kaisaaru">
+<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=120&section=footer"/>
+</p>
