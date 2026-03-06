@@ -43,18 +43,10 @@ I'm a **Software Engineering student** from Indonesia who enjoys building **web 
 ## 📫 Connect With Me
 
 <p align="center">
-
-<a href="mailto:ryf.kaisaaru@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kaisaaru">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/kaisaaru">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="mailto:ryf.kaisaaru@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://github.com/kaisaaru"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://linkedin.com/in/USERNAME_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+</p>
 
 </p>
 
