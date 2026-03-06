@@ -47,11 +47,6 @@ I'm a **Software Engineering student** from Indonesia who enjoys building **web 
 <a href="https://github.com/kaisaaru"><img src="https://skillicons.dev/icons?i=github"/></a>
 <a href="https://linkedin.com/in/kaisaaru"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://instagram.com/ka1sai"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="#">
-<img src="https://img.shields.io/badge/Discord-@ka1sai-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-</p>
 
 </p>
 
