@@ -20,7 +20,7 @@ I'm a **Software Engineering student** from Indonesia who enjoys building **web 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,next,php,laravel,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,next,php,laravel,mysql,git,github,vscode" />
 </p>
 
 ---
