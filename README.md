@@ -1,76 +1,80 @@
-<h1 align="center">Hi, I'm Kai</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=650&lines=Fullstack+Web+Developer;Building+AI-Powered+Applications;Creating+Tools+for+Japanese+Learners" />
-</p>
+# Kaisar Rayfa Al Baihaqqi
+### Backend Engineer in progress · Software Engineering @ Telkom University
 
-<p align="center">
-Software Engineering Student from Indonesia
-</p>
+</div>
 
----
+```http
+GET /kai/status HTTP/1.1
+Host: github.com
+```
 
-## About
+```json
+200 OK
 
-I'm a Software Engineering student passionate about building products that solve real-world problems.
-
-My interests span fullstack web development, AI-powered applications, and developer tools. I enjoy turning ideas into polished products with clean interfaces and practical functionality.
-
----
-
-## Featured Projects
-
-### Kotori
-
-An AI-powered reading platform designed to help Japanese learners read novels more naturally.
-
-**Key features**
-
-- AI-assisted explanations
-- Dictionary integration
-- Modern reading experience
-- Responsive interface
-
-### ERKA Absen
-
-A web-based attendance and HR management system built for real-world use.
-
-**Key features**
-
-- Face Recognition Attendance
-- QR Code Attendance
-- Geofencing
-- Digital Payslips
-- Warning Letter (SP) Management
-- Employee & Admin Dashboard
+{
+  "name": "Kaisar Rayfa Al Baihaqqi",
+  "alias": "Kai",
+  "role": "Software Engineering Student",
+  "focus": ["backend development", "web development", "AI/ML", "NLP", "computer vision"],
+  "location": "Bandung, Indonesia",
+  "status": "learning in public"
+}
+```
 
 ---
 
-## Tech Stack
+### `GET /kai/stack`
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,next,vue,php,laravel,tailwind,nodejs,supabase,postgres,mysql,git,github,vercel" />
-</p>
+**Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Currently exploring**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-in%20progress-orange?style=flat-square)
 
 ---
 
-## GitHub Stats
+### `GET /kai/learning`
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kaisaaru&theme=tokyonight&hide_border=true"/>
-</p>
+```json
+{
+  "current": "Stanford / DeepLearning.AI Machine Learning Specialization (Coursera)",
+  "topics": ["supervised learning", "regression", "cost functions", "NLP", "computer vision"],
+  "also": "improving English for internships and technical interviews",
+  "note": "learning progressively, connecting new concepts to what I already know"
+}
+```
 
 ---
 
-## Contact
+### `POST /kai/contact`
 
-<p align="center">
-<a href="mailto:ryf.kaisaaru@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://github.com/kaisaaru"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://linkedin.com/in/kaisaaru"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://instagram.com/ka1sai"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-</p>
+```json
+{
+  "linkedin": "linkedin.com/in/kaisaaru",
+  "email": "ryf.kaisaaru@gmail.com",
+  "portfolio": "kaisaaru.my.id"
+}
+```
 
-<p align="center">
-<i>Building software that people enjoy using.</i>
-</p>
+```
+202 Accepted
+Response time: usually within a day
+```
+
+<div align="center">
+
+`HTTP/1.1 200 OK` · thanks for stopping by
+
+</div>
