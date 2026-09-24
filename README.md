@@ -1,80 +1,86 @@
 <div align="center">
 
-# Kaisar Rayfa Al Baihaqqi
-### Backend Engineer in progress · Software Engineering @ Telkom University
+<!-- HERO CUSTOM ANIMATED HEADER -->
+<img src="./assets/header.svg" width="100%" alt="Kaisar Rayfa Al Baihaqqi - Header Banner" />
 
 </div>
 
-```http
-GET /kai/status HTTP/1.1
-Host: github.com
+---
+
+## 📖 `about.me`
+
+Hi, I'm **Kai**.
+
+I'm a Software Engineering student and developer who enjoys **building things from ideas**.
+
+I explore different sides of technology, from web applications and software systems to AI and whatever catches my curiosity. I don't really want to be defined by a single stack. I'd rather keep learning, building, and figuring out how things work.
+
+```
+Some projects start as coursework.
+Some start as random ideas.
+Some become something I keep building long after the assignment ends.
 ```
 
-```json
-200 OK
+> 🌸 *Beyond the code, there's something more personal that keeps me building.*
 
-{
-  "name": "Kaisar Rayfa Al Baihaqqi",
-  "alias": "Kai",
-  "role": "Software Engineering Student",
-  "focus": ["backend development", "web development", "AI/ML", "NLP", "computer vision"],
-  "location": "Bandung, Indonesia",
-  "status": "learning in public"
-}
-```
+**Isla inspires me.**
+
+The things Isla represents to me, the ideas, the feeling, and the future I imagine, became one of the reasons I want to keep creating things instead of just dreaming about them.
+
+That's where **#2030IslaNyata** comes from.
+
+<br/>
+
+<!-- ANIMATED ISLA QUOTE BANNER -->
+<div align="center">
+  <img src="./assets/isla-quote.svg" width="100%" alt="Making Isla Real" />
+</div>
+
+<br/>
+
+Maybe it's an ambitious goal.  
+Maybe it'll take longer than I expect.  
+
+But for now, I'll keep building, **one idea, one project, and one step at a time.**
 
 ---
 
-### `GET /kai/stack`
+## 🛠️ `tech.stack`
 
-**Backend**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+<p align="center">
+  <b>Backend &amp; Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=php,js,laravel,postgres,supabase,mysql&theme=dark" alt="Backend &amp; Databases" />
+</p>
 
-**Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<p align="center">
+  <b>Frontend Systems</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,vue,tailwind&theme=dark" alt="Frontend Systems" />
+</p>
 
-**Currently exploring**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-in%20progress-orange?style=flat-square)
-
----
-
-### `GET /kai/learning`
-
-```json
-{
-  "current": "Stanford / DeepLearning.AI Machine Learning Specialization (Coursera)",
-  "topics": ["supervised learning", "regression", "cost functions", "NLP", "computer vision"],
-  "also": "improving English for internships and technical interviews",
-  "note": "learning progressively, connecting new concepts to what I already know"
-}
-```
+<p align="center">
+  <b>DevOps, Tooling &amp; Environment</b><br/>
+  <img src="https://skillicons.dev/icons?i=py,git,github,docker,postman,linux&theme=dark" alt="Tools &amp; Environment" />
+</p>
 
 ---
 
-### `POST /kai/contact`
+## 📊 `github.stats`
 
-```json
-{
-  "linkedin": "linkedin.com/in/kaisaaru",
-  "email": "ryf.kaisaaru@gmail.com",
-  "portfolio": "kaisaaru.my.id"
-}
-```
+<div align="center">
+  <a href="https://github.com/kaisaaru">
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaisaaru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080b12&title_color=38bdf8&icon_color=60a5fa&text_color=94a3b8&border_radius=8" alt="Kai's GitHub Stats" />
+  </a>
+  <a href="https://github.com/kaisaaru">
+    <img width="49%" src="https://streak-stats.demolab.com/?user=kaisaaru&theme=tokyonight&hide_border=true&background=080b12&ring=38bdf8&fire=60a5fa&currStreakLabel=38bdf8&sideNums=f8fafc&sideLabels=94a3b8&dates=64748b&stroke=1e293b&border_radius=8" alt="Kai's GitHub Streak" />
+  </a>
+</div>
 
-```
-202 Accepted
-Response time: usually within a day
-```
+
+---
 
 <div align="center">
 
-`HTTP/1.1 200 OK` · thanks for stopping by
+<!-- CUSTOM ANIMATED SVG FOOTER -->
+<img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 
 </div>
